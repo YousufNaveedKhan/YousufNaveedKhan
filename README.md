@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h3 align="left">Hi 👋! My name is Yousuf Naveed and I'm a Developer from Pakistan</h3>
+<h3 align="left">Hi 👋! My name is Yousuf Naveed and I'm a Front-End Developer from Pakistan</h3>
 
 ###
 
