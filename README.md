@@ -37,6 +37,17 @@
   <img width="12" />
 </div>
 
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YousufNK23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=yeblu&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=YousufNK23&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YousufNK23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <br clear="both">
@@ -60,16 +71,6 @@
   <a href="https://t.me/yousufnk23" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousufNK23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=yeblu&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=YousufNK23&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YousufNK23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
