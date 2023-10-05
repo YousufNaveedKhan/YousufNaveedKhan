@@ -54,7 +54,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/yousufnaveed23/" target="_blank">
+  <a href="https://www.instagram.com/yousufnaveedkhan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/app#yousuf8343" target="_blank">
@@ -63,13 +63,13 @@
   <a href="mailto:yk033127@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/yousuf-naveed-khan-6a3564274/" target="_blank">
+  <a href="https://www.linkedin.com/in/yousufnaveedkhan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://facebook.com/yousufnaveed.001" target="_blank">
+  <a href="https://facebook.com/yousufnaveedkhan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://t.me/yousufnk23" target="_blank">
+  <a href="https://t.me/yousufnaveedkhan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
 </div>
