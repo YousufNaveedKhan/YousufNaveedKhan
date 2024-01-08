@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Hi 👋! My name is Yousuf Naveed and I'm a Web Developer, from Pakistan</h3>
+<h3 align="left">Assalam Walaikum, My name is Muhammad Yousuf, and I am from Pakistan. I am currently pursuing an Advanced Diploma in Software Engineering from Aptech. Additionally, I am in the third year of my eight-year DARS-E-NIZAMI course.</h3>
 
 ###
 
