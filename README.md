@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Assalam Walaikum, My name is Muhammad Yousuf, and I am a Web Developer from Pakistan. I am currently pursuing an Advanced Diploma in Software Engineering from Aptech.</h3>
+<h3 align="left">Assalam Walaikum, My name is Muhammad Yousuf, and I am a Web Developer from Pakistan. I am currently pursuing an Advanced Diploma in Software Engineering from Aptech Gulshan II.</h3>
 
 ###
 
