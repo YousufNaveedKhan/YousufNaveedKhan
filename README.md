@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+![MasterHead](https://cdn.pixabay.com/video/2019/10/09/27706-365890968_tiny.jpg)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/YousufNaveedKhan/count.svg?"  />
