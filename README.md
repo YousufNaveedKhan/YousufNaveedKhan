@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Assalam Walaikum, My name is Muhammad Yousuf, and I am a Web Developer from Pakistan.</h3>
+<h3 align="center">Assalamualaikum, my name is Muhammad Yousuf Naveed. I am an IT professional from Pakistan. I am currently teaching various IT skills to students at Aptech, Gulshan II Center. My passion lies in the field of IT, and my vision is to represent myself and my country within this industry.</h3>
 
 ###
 
