@@ -8,11 +8,9 @@
 
 <br clear="both">
 
-<img align="right" height="110" src="https://contentstatic.techgig.com/photo/76118246/5-personal-characteristics-of-successful-programmers.jpg?119058"  />
-
 ###
 
-<h3 align="left">Assalam Walaikum, My name is Muhammad Yousuf, and I am a Web Developer from Pakistan.</h3>
+<h3 align="center">Assalam Walaikum, My name is Muhammad Yousuf, and I am a Web Developer from Pakistan.</h3>
 
 ###
 
