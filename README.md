@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="center">Assalamualaikum, my name is Muhammad Yousuf Naveed. I am an IT professional from Pakistan. I am currently teaching various IT skills to students at Aptech, Gulshan II Center. My passion lies in the field of IT, and my vision is to represent myself and my country within this industry.</h3>
+<h3 align="center">Assalamualaikum, my name is Muhammad Yousuf Naveed. I am a Software Engineer and IT professional from Pakistan. Currently, I am freelancing while pursuing a 3-year Advanced Diploma in Software Engineering from Aptech. Alongside, I am in my 4th year of the Dars-e-Nizami course. My passion for IT drives me to constantly enhance my skills, and my vision is to represent myself and my country in the global tech industry.</h3>
 
 ###
 
