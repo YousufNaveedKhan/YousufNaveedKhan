@@ -5,7 +5,9 @@
 
 ### 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YousufNaveedKhan/count.svg?"  />
+  <a href="https://yousufnaveedkhan.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=github" width="300" alt="Visit Portfolio Badge">
+  </a>
 </div>
 
 ###
