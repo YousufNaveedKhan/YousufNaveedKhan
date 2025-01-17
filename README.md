@@ -1,8 +1,3 @@
-![MasterHead](https://devtechnosys.ae/blog/wp-content/uploads/2019/12/ios-app-development-servies.gif)
-
-###
-
-
 ### 
 <div align="center">
   <a href="https://yousufnaveedkhan.github.io/Portfolio/" target="_blank">
