@@ -1,91 +1,72 @@
-### 
-<div align="center">
-  <a href="https://yousufnaveedkhan.github.io/MyPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=github" width="300" alt="Visit Portfolio Badge">
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-###
-
-<h3 align="center">Assalamualaikum, my name is Muhammad Yousuf Naveed. I am a Software Engineer and IT professional from Pakistan. Currently, I am freelancing while pursuing a 3-year Advanced Diploma in Software Engineering from Aptech. Alongside, I am in my 4th year of the Dars-e-Nizami course. My passion for IT drives me to constantly enhance my skills, and my vision is to represent myself and my country in the global tech industry.</h3>
-
-###
-
-<br clear="both">
+# <h1 align="center">✨ ACCESS GRANTED: YOUSUF NAVEED KHAN ✨</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousufNaveedKhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=yeblu&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=YousufNaveedKhan&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YousufNaveedKhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHgzNDl4NHJ4b3B3aTJydjA0MWdzaGtvbnd5b2p3aHpkMnV2ZDB5MyZlcD12aXN1YWxzJmN0PWc/TFDn3Tz6T6I2l6F07v/giphy.gif" width="50" />
 </div>
 
-###
+<p align="center">
+    <code>[STATUS: ONLINE]</code> | <code>[PROTOCOL: TRI-ERA ACTIVE]</code>
+</p>
 
-<br clear="both">
+---
+
+## ⚙️ CORE_PHILOSOPHY: The Tri-Era Architect
+
+I am a Software Engineer dedicated to architecting solutions by honoring the fundamentals (**Past**), mastering contemporary enterprise stacks (**Present**), and iterating towards the unknown (**Future**). My development approach is structured, robust, and future-proof.
+
+- 🛠️ **Present Mastery:** Laravel, C#, .NET Core MVC, Robust Code Standards.
+- 💡 **Future Iteration:** Flutter/Dart, AI/ML Concepts, Microservices Architecture.
+- 📜 **Past Foundation:** PHP/MySQL Fundamentals, Vanilla JS, Core System Logic.
+
+<br>
+
+## 🚀 LIVE SYSTEM ACCESS
+
+The ultimate demonstration of my Tri-Era philosophy is my personal portfolio.
+
+<p align="center">
+    <a href="https://yousufnaveedkhan.github.io/MyPortfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Portfolio-00ff66?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00ff66&color=00ff66" alt="Portfolio Button" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/yousufnaveedkhan/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+    </a>
+</p>
+
+---
+
+## 📊 SYSTEM LOGS: GitHub Metrics & Activity
+
+My activity is primarily focused on **backend logic** and **full-stack projects**.
+
+| GitHub Stats | Top Languages & Activity |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api?username=YousufNaveedKhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20&title_color=00e0ff&icon_color=00ff66&text_color=ffffff&bg_color=121212" alt="Yousuf Naveed Khan's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufNaveedKhan&layout=compact&theme=dark&title_color=00e0ff&icon_color=00ff66&text_color=ffffff&bg_color=121212" alt="Top Languages" /> |
+
+<br>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousufNaveedKhan&theme=dark&hide_border=true&border_radius=5&dates=auto&date_format=j%20M%5B%20Y%5D&date_format=j%20M%5B%20Y%5D&ring=00ff66&fire=00e0ff&side_icons=true&currstreak=ffffff&dates=ffffff&exclude_days=Sun%2C%20Sat" alt="GitHub Streak" />
+</p>
+
+---
+
+## ⚙️ CURRENT_STACKS: Mastered Technologies
+
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Backend & Enterprise** | `Laravel (PHP)` • `.NET Core MVC` • `C#` • `Node.js` |
+| **Mobile & Cross-Platform** | `Flutter` • `Dart` • `Firebase` • `Hive/SQLite` |
+| **Frontend & Scripting** | `JavaScript/TypeScript` • `Angular` • `React (Basic)` • `jQuery` |
+| **Database & Tools** | `MySQL` • `SQL Server` • `Git` • `GitHub` • `Bitbucket` |
+
+<br>
+
+<h4 align="center">
+    <img src="https://komarev.com/ghpvc/?username=YousufNaveedKhan&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" />
+</h4>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FjaDZxNW83MXZ6ejR4aG1tNjVpYm9nZW02b3VjZ2N3bWh2ZGw4cyZlcD12aXN1YWxzJmN0PWc/Q80zS858K5tT30q5f1/giphy.gif" width="200" />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.instagram.com/yousufnaveedkhan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/app#yousuf8343" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:yk033127@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yousufnaveedkhan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://facebook.com/yousufnaveedkhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/yousufnaveedkhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
