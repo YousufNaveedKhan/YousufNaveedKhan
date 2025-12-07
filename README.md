@@ -1,6 +1,6 @@
 ### 
 <div align="center">
-  <a href="https://yousufnaveedkhan.github.io/Portfolio/" target="_blank">
+  <a href="https://yousufnaveedkhan.github.io/MyPortfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=github" width="300" alt="Visit Portfolio Badge">
   </a>
 </div>
