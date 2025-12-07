@@ -41,7 +41,7 @@ The ultimate demonstration of my Tri-Era philosophy is my personal portfolio.
 My activity is primarily focused on **backend logic** and **full-stack projects**.
 
 | GitHub Stats | Top Languages & Activity |
-| :--- | :--- |
+| :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=YousufNaveedKhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20&title_color=00e0ff&icon_color=00ff66&text_color=ffffff&bg_color=121212" alt="Yousuf Naveed Khan's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufNaveedKhan&layout=compact&theme=dark&title_color=00e0ff&icon_color=00ff66&text_color=ffffff&bg_color=121212" alt="Top Languages" /> |
 
 <br>
