@@ -101,7 +101,7 @@ I architect software solutions guided by three eras:
 
 ### 🧑‍💻 <b>Visitor?</b>
 <b>Feel free to explore the Tri-Era Journey.<br>
-Want to collaborate or discuss an idea? Reach out via my <a href="mailto:yousufnaveedkhan@gmail.com">email</a> or <a href="https://www.linkedin.com/in/yousufnaveedkhan/">LinkedIn</a>!</b>
+Want to collaborate or discuss an idea? Reach out via my <a href="mailto:yk033127@gmail.com">email</a> or <a href="https://www.linkedin.com/in/yousufnaveedkhan/">LinkedIn</a>!</b>
 <br>
 <i>Shaping the past, mastering the present, building the future.</i>
 
