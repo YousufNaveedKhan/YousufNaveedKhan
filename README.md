@@ -38,7 +38,7 @@ I architect software solutions guided by three eras:
   <a href="https://www.linkedin.com/in/yousufnaveedkhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
   </a>
-  <a href="mailto:yousufnaveedkhan@gmail.com" target="_blank">
+  <a href="mailto:yk033127@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact_Mail-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" />
   </a>
 </div>
