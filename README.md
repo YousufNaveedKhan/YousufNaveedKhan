@@ -51,13 +51,25 @@ I architect software solutions guided by three eras:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YousufNaveedKhan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=20&title_color=00e0ff&icon_color=00ff66&text_color=ececec&bg_color=23272F" width="380" alt="GitHub Stats" />
+      <img src="https://stats-github-readme.vercel.app/api?username=YousufNaveedKhan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=20&title_color=00e0ff&icon_color=00ff66&text_color=ececec&bg_color=23272F"
+           width="380"
+           alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufNaveedKhan&layout=compact&theme=github_dark&title_color=00e0ff&icon_color=00ff66&text_color=ececec&bg_color=23272F" width="300" alt="Top Languages" />
+      <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=YousufNaveedKhan&layout=compact&theme=github_dark&title_color=00e0ff&text_color=ececec&bg_color=23272F"
+           width="300"
+           alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YousufNaveedKhan&theme=github-dark&ring=00e0ff&fire=00ff66&currStreakLabel=00e0ff"
+       width="600"
+       alt="GitHub Streak" />
+</p>
 <br>
 
 ---
