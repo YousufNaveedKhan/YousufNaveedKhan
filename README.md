@@ -4,7 +4,6 @@
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-Freelance%20%26%20Consulting-00A86B?style=for-the-badge&logo=mailchimp&logoColor=white)](mailto:yk033127@gmail.com?subject=Freelance%20Project%20Inquiry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousufnaveedkhan/)
 
-![typing](https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=24&duration=2500&pause=800&color=0A2540&center=true&lines=Tri-Era+Architect+%E2%80%A2+Systems+%26+Mentorship;Building+reliable+products+%E2%80%A2+Delivering+practical+results)
 
 Professional portfolio focused on robust system architecture, production AI pipelines, and hands‑on team mentorship. I design and deliver systems that last — clear, observable, and maintainable.
 
