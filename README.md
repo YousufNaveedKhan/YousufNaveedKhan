@@ -1,82 +1,91 @@
-# Yousuf Naveed Khan — Tri‑Era Architect
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://yousufnaveedkhan.vercel.app/)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-Freelance%20%26%20Consulting-00A86B?style=for-the-badge&logo=mailchimp&logoColor=white)](mailto:yk033127@gmail.com?subject=Freelance%20Project%20Inquiry)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousufnaveedkhan/)
+# Yousuf Naveed Khan
 
+**Software Engineer & Technical Educator**
+Building full-stack products — and teaching the people who'll build the next ones.
 
-Professional portfolio focused on robust system architecture, production AI pipelines, and hands‑on team mentorship. I design and deliver systems that last — clear, observable, and maintainable.
+Senior Faculty, Aptech Gulshan 2 · Founder, GFT Solutions · Karachi, Pakistan
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousufnaveedkhan-C9A15A?style=flat-square&logo=linkedin&logoColor=white&labelColor=14161A)](https://linkedin.com/in/yousufnaveedkhan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yousufnaveedkhan.vercel.app-C9A15A?style=flat-square&logo=vercel&logoColor=white&labelColor=14161A)](https://yousufnaveedkhan.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-yk033127%40gmail.com-C9A15A?style=flat-square&logo=gmail&logoColor=white&labelColor=14161A)](mailto:yk033127@gmail.com)
 
-## Snapshot
-- Current roles: Senior Faculty (Aptech) · Strategic Architect (Musab Enterprises)  
-- Location: Gulistan‑e‑Jouhar, Karachi  
-- Contact: yk033127@gmail.com — best for project briefs and scope requests  
-- Availability: Accepting freelance and consulting engagements (project-based). 
+</div>
 
 ---
 
-## What I deliver
-- End‑to‑end system architecture for web & mobile (reliability, observability, resilience).  
-- Production-ready ML / data solutions: ETL → model training → deployment → monitoring.  
-- Team mentorship: guiding real projects to production, code standards, and developer growth.  
-- Performance & scalability: high‑concurrency backends, caching, and operational tuning.
+### About
+
+I write software and I teach it — both, at the same time, for a while now. I work mainly
+in the MERN stack and .NET/C#, and I teach Software Engineering, Data Science, AI and
+Web Development at Aptech Gulshan 2, where I also studied.
+
+I don't teach a technology by defining it. I teach *why it exists, how it works, when
+you'd reach for it, and where it actually gets used* — then build the practical exercise
+around that. Most of what ends up in my repos comes from that same instinct: build the
+thing that solves an actual problem, not the thing that demos well.
+
+That instinct partly comes from time spent outside the classroom too — running day-to-day
+operations for a business (inventory, staff, reconciliation, the parts of software that
+only matter once real people depend on it). Software is only as good as the business
+problem it actually solves.
+
+I'm also a Hafiz-e-Quran and currently a 4th-year student of Dars-e-Nizami — a long,
+structured commitment that's shaped how I approach discipline and depth in everything else.
+
+### What I Do
+
+- Build full-stack applications — MERN, .NET/ASP.NET Core, REST APIs, SQL Server/MongoDB
+- Teach Software Engineering, Data Science, AI, Web Development and Mobile App
+  Development (Dart & Flutter) as Senior Faculty — React Native next, In Sha Allah
+- Lead and mentor student teams through technology competitions
+- Run GFT Solutions, building software and product work for clients
+- Currently studying Cyber Security & Digital Forensics
+
+### Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-C9A15A?style=flat-square&logo=javascript&logoColor=white&labelColor=14161A)
+![React](https://img.shields.io/badge/React-C9A15A?style=flat-square&logo=react&logoColor=white&labelColor=14161A)
+![Node.js](https://img.shields.io/badge/Node.js-C9A15A?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=14161A)
+![Express](https://img.shields.io/badge/Express-C9A15A?style=flat-square&logo=express&logoColor=white&labelColor=14161A)
+![MongoDB](https://img.shields.io/badge/MongoDB-C9A15A?style=flat-square&logo=mongodb&logoColor=white&labelColor=14161A)
+![C%23](https://img.shields.io/badge/C%23-C9A15A?style=flat-square&logo=csharp&logoColor=white&labelColor=14161A)
+![.NET](https://img.shields.io/badge/ASP.NET_Core-C9A15A?style=flat-square&logo=dotnet&logoColor=white&labelColor=14161A)
+![SQL Server](https://img.shields.io/badge/SQL_Server-C9A15A?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=14161A)
+![Azure](https://img.shields.io/badge/Azure-C9A15A?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=14161A)
+![Dart](https://img.shields.io/badge/Dart-C9A15A?style=flat-square&logo=dart&logoColor=white&labelColor=14161A)
+![Flutter](https://img.shields.io/badge/Flutter-C9A15A?style=flat-square&logo=flutter&logoColor=white&labelColor=14161A)
+
+</div>
+
+### Teaching & Mentoring
+
+- **Senior Faculty, Aptech Gulshan 2** — Software Engineering, Data Science, Data
+  Analysis, AI, Web Development
+- **TechWiz** — competed as a contestant leading a 4-person team; now entering my
+  **3rd consecutive year as a Mentor**, leading 3 teams this year
+- **Aptech Vision** — competed and qualified to the external level; mentoring my own
+  teams for 2 consecutive years since
+- Participated in **TechThrone**, and completed programs with **CodSoft India**
+
+### GFT Solutions
+
+Founder & CEO. Software and product work for clients, built with the same practical,
+business-first approach I bring to teaching — understand the real problem before
+reaching for the tech.
+
+### Currently Learning
+
+Cyber Security & Digital Forensics.
 
 ---
 
-## Skills & Tools (select)
-- Languages & Frameworks: ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-- Frontend & UI: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
-- ML & Data: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-- Backend & Infra: ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-- Processes & Practices: architecture reviews, CI basics, observable production rollouts, code audits, mentoring sprints.
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousufnaveedkhan-C9A15A?style=flat-square&logo=linkedin&logoColor=white&labelColor=14161A)](https://linkedin.com/in/yousufnaveedkhan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yousufnaveedkhan.vercel.app-C9A15A?style=flat-square&logo=vercel&logoColor=white&labelColor=14161A)](https://yousufnaveedkhan.vercel.app/)
 
-## Featured projects (concise, real deliverables)
-1. **Neural Vision Architect**  
-   Advanced predictive‑analytics platform for retail insights — production ML pipelines, optimized inference, monitoring and CI for models.  
-   Tech: Python, TensorFlow, data pipelines — Case study and visuals on the portfolio.
-
-2. **Musab ERP Connect**  
-   Transactional sales & inventory platform designed for high concurrency and operational integrity. Includes caching and queue processing patterns.  
-   Tech: Laravel, MySQL, Redis — Live showcase and architecture notes on the portfolio.
-
-3. **Enterprise Integration Suite**  
-   Integration layer & API gateway patterns for legacy migration and microservices orchestration — focus on observability and safe rollouts.  
-   Tech: Node.js, Redis, Postgres — architecture diagrams and deployment notes in project pages.
-
-(Full case studies, screenshots, and demos available on the portfolio link above.)
-
----
-
-## Mentorship & Consulting (how I work)
-- Engagements are project‑oriented: short audits, sprint mentorships, or full product architecture delivery.  
-- Typical first step: a short technical brief + 30–45 min discovery call → written scope & milestones.  
-- I prioritize measurable outcomes: shipped features, improved reliability, or team readiness.
-
----
-
-## GitHub overview
-<p>
-  <img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YousufNaveedKhan&show_icons=true&hide_rank=true&count_private=true&theme=transparent" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufNaveedKhan&layout=compact&theme=transparent" />
-</p>
-<br clear="left" />
-
----
-
-## Contact & next steps
-[![Portfolio](https://img.shields.io/badge/Open%20Portfolio-%F0%9F%92%BB-blue?style=for-the-badge)](https://yousufnaveedkhan.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-yk033127%40gmail.com-ff6b6b?style=for-the-badge)](mailto:yk033127@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yousufnaveedkhan/)
-
-Preferred initial message: short brief (2–4 lines) + target timeline. I’ll respond with availability and an initial scope outline.
-
----
-
-## Principles I follow
-- Build for clarity: systems should be observable and understandable.  
-- Deliver practical solutions: measurable impact over novelty.  
-- Mentor by doing: teams learn fastest when shipping real work.
+</div>
