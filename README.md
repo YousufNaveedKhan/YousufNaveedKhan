@@ -87,16 +87,9 @@ My own product, three showcase systems and a payment plugin. **Showcase** means 
   <br><b>Smart Finance</b> (showcase)<br>Expense tracking with forecasts that show their tested error
 </td>
 </tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://yousufnaveedkhan.com/work/jazzcash-woocommerce/"><img src="./assets/work-jazzcash-plugin.png" alt="JazzCash MWallet payment plugin for WooCommerce"></a>
-  <br><b>JazzCash MWallet plugin</b><br>A payment method for WooCommerce stores, built with DataLinkk AI
-</td>
-<td width="50%" align="center" valign="middle">
-  <br><b><a href="https://yousufnaveedkhan.com/work/">All work, with screens and videos</a></b><br>Client work appears only with the client's written permission.
-</td>
-</tr>
 </table>
+
+**Also:** the [JazzCash MWallet plugin for WooCommerce](https://yousufnaveedkhan.com/work/jazzcash-woocommerce/), a payment method for WooCommerce stores, built with DataLinkk AI. &nbsp;·&nbsp; **[All work, with screens and videos](https://yousufnaveedkhan.com/work/)**
 
 ## Working set
 
