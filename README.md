@@ -12,7 +12,7 @@
 I build business software for B2B clients, I teach the engineers who will build the next generation of it, and I keep learning: I am a student of Dars-e-Nizami.
 
 <p align="center">
-  <a href="https://yousufnaveedkhan.com"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://yousufnaveedkhan.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://wearegft.com">GFT Solutions</a> &nbsp;·&nbsp;
   <a href="https://yousufnaveedkhan.com/opticore/">OptiCore</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/yousufnaveedkhan/">LinkedIn</a> &nbsp;·&nbsp;
@@ -31,9 +31,9 @@ I build business software for B2B clients, I teach the engineers who will build 
 
 ### Architect and build
 
-Business software for B2B clients through GFT Solutions: web platforms, desktop systems, mobile apps and AI-assisted workflows. **15+ projects delivered.**
+Business software for B2B clients through GFT Solutions: web platforms, desktop systems, mobile apps and AI-assisted workflows.
 
-Founder and product lead of **OptiCore**, a desktop POS, inventory and accounting system for optical shops, now in testing.
+Founder and product lead of **OptiCore**, a desktop POS, inventory and accounting system for optical shops, now in testing. I also build showcase systems end to end, with tests, to show how I work.
 
 </td>
 <td width="33%" valign="top">
@@ -64,27 +64,36 @@ STUDYING    Dars-e-Nizami, Rabia year
 
 ## Selected work
 
-A few projects I have led. Client names appear only where permission was given, and larger engagements stay confidential. More at [yousufnaveedkhan.com/work](https://yousufnaveedkhan.com/work/).
+My own product, three showcase systems and a payment plugin. **Showcase** means built by GFT Solutions with invented people, places and amounts: not client work and not a live service. Each has screens, a walkthrough video and a case study on my [portfolio](https://yousufnaveedkhan.com/work/).
 
 <table>
 <tr>
 <td width="50%" align="center">
-  <a href="https://yousufnaveedkhan.com/opticore/"><img src="./assets/work-opticore.png" alt="OptiCore: desktop POS, inventory and accounting for optical shops"></a>
-  <br><b>OptiCore</b><br>Desktop POS, inventory and accounting for optical shops
+  <a href="https://yousufnaveedkhan.com/opticore/"><img src="./assets/work-opticore.png" alt="OptiCore: desktop POS, inventory and accounting for optical shops, in testing"></a>
+  <br><b>OptiCore</b><br>My own product. Desktop POS, inventory and accounting for optical shops, in testing
 </td>
 <td width="50%" align="center">
-  <a href="https://yousufnaveedkhan.com/work/syed-akhtar-trading/"><img src="./assets/work-inventory-sales.png" alt="Inventory and sales platform with dashboards, invoicing and e-commerce integration"></a>
-  <br><b>Inventory and sales platform</b><br>Dashboards, invoicing, reporting and e-commerce integration
+  <a href="https://yousufnaveedkhan.com/work/kirayanaama/"><img src="./assets/work-kirayanaama.png" alt="KirayaNaama: rental management with a tenant app in English and Urdu, a landlord portal and a Laravel API. Showcase project."></a>
+  <br><b>KirayaNaama</b> (showcase)<br>Rental management: Flutter app in English and Urdu, landlord portal, Laravel API
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <a href="https://yousufnaveedkhan.com/work/labour-connect/"><img src="./assets/work-labour-connect.png" alt="Labour Connect: a bidding and labour-management platform"></a>
-  <br><b>Labour Connect</b><br>A bidding and labour-management platform
+  <a href="https://yousufnaveedkhan.com/work/luxury-stay/"><img src="./assets/work-luxurystay.png" alt="LuxuryStay: a hotel booking website and a staff dashboard on one API. Showcase project."></a>
+  <br><b>LuxuryStay</b> (showcase)<br>Hotel booking website and staff dashboard on one API, with transaction-safe room assignment
 </td>
 <td width="50%" align="center">
+  <a href="https://yousufnaveedkhan.com/work/smart-finance/"><img src="./assets/work-smart-finance.png" alt="Smart Finance: expense tracking with forecasts that show their own error. Showcase project."></a>
+  <br><b>Smart Finance</b> (showcase)<br>Expense tracking with forecasts that show their tested error
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
   <a href="https://yousufnaveedkhan.com/work/jazzcash-woocommerce/"><img src="./assets/work-jazzcash-plugin.png" alt="JazzCash MWallet payment plugin for WooCommerce"></a>
-  <br><b>JazzCash MWallet plugin</b><br>A payment method for WooCommerce stores
+  <br><b>JazzCash MWallet plugin</b><br>A payment method for WooCommerce stores, built with DataLinkk AI
+</td>
+<td width="50%" align="center" valign="middle">
+  <br><b><a href="https://yousufnaveedkhan.com/work/">All work, with screens and videos</a></b><br>Client work appears only with the client's written permission.
 </td>
 </tr>
 </table>
@@ -94,32 +103,33 @@ A few projects I have led. Client names appear only where permission was given, 
 | Area | What I work with |
 |---|---|
 | **Languages** | JavaScript, TypeScript, C#, Python, Dart, PHP, SQL |
-| **Web** | React, Node.js, Express, ASP.NET Core MVC, Laravel, Tailwind CSS |
+| **Web** | React, Angular, Node.js, Express, ASP.NET Core MVC, Laravel, Tailwind CSS, WordPress and WooCommerce |
 | **Mobile and desktop** | Flutter, C# and .NET desktop applications |
-| **Data** | SQL Server, MySQL, PostgreSQL, MongoDB |
-| **AI** | Python, agentic AI workflows |
+| **Data** | SQL Server, MySQL, MariaDB, SQLite, MongoDB |
+| **AI** | Python, FastAPI, scikit-learn, agentic AI workflows |
 | **Cloud and DevOps** | Azure, GitHub Actions |
 
 ## Open learning resources
 
-Course material I have built for my students at Aptech, open for everyone.
+Course material I have built for my students at Aptech, open for everyone. Finished courses are archived (read-only) and stay readable.
 
 | Repository | What it covers |
 |---|---|
-| [**AgentCraft**](https://github.com/YousufNaveedKhan/AgentCraft) | A 2-month course from Python fundamentals to building real AI agents and business automation, with the Gemini API, n8n and agent architecture |
-| [**FullStackApplications**](https://github.com/YousufNaveedKhan/FullStackApplications) | Full-stack web development with Node.js, Express, MongoDB and Mongoose, built up lecture by lecture |
-| [**ManagingLargeDatasetsWithMongoDB**](https://github.com/YousufNaveedKhan/ManagingLargeDatasetsWithMongoDB) | CRUD, data types, operators and the aggregation pipeline, with assignments |
+| [**AgentCraft**](https://github.com/YousufNaveedKhan/AgentCraft) | A 2-month journey from Python fundamentals to building real AI agents, automation pipelines, RAG, tools and memory |
+| [**ServerSideProgrammingWithNodeJS**](https://github.com/YousufNaveedKhan/ServerSideProgrammingWithNodeJS) | Lecture-wise notes, tested practical code and assignments for server-side programming with Node.js |
+| [**FlutterJourney26-Batch08E_10C**](https://github.com/YousufNaveedKhan/FlutterJourney26-Batch08E_10C) | Flutter and Dart course material for building mobile apps |
+| [**WebDesigningCourse26**](https://github.com/YousufNaveedKhan/WebDesigningCourse26) | Lecture-by-lecture HTML, CSS, JavaScript, DOM, events and Bootstrap, written live in class |
+| [**ExcelCourse26**](https://github.com/YousufNaveedKhan/ExcelCourse26) | Formatting, formulas, functions, data tools, PivotTables and dashboards, with one practice workbook per lecture |
+| [**FullStackApplications**](https://github.com/YousufNaveedKhan/FullStackApplications) | Full-stack web development with Node.js, Express, MongoDB and Mongoose, lecture by lecture |
 | [**FrontendDevelopment-with-ReactJS**](https://github.com/YousufNaveedKhan/FrontendDevelopment-with-ReactJS) | React from JSX, props and hooks to routing, forms and effects |
-| [**ASP.NET-CORE-MVC-2026**](https://github.com/YousufNaveedKhan/ASP.NET-CORE-MVC-2026) | ASP.NET Core MVC, lecture by lecture |
-| [**TypeScriptandAngular**](https://github.com/YousufNaveedKhan/TypeScriptandAngular) | TypeScript and Angular |
-| [**FlutterJourney27**](https://github.com/YousufNaveedKhan/FlutterJourney27) | Flutter and Dart for mobile apps |
-| [**PythonCourse**](https://github.com/YousufNaveedKhan/PythonCourse) | Python fundamentals |
+| [**ASP.NET-CORE-MVC-2026**](https://github.com/YousufNaveedKhan/ASP.NET-CORE-MVC-2026) | ASP.NET Core MVC course material, lecture by lecture |
+| [**ManagingLargeDatasetsWithMongoDB**](https://github.com/YousufNaveedKhan/ManagingLargeDatasetsWithMongoDB) | CRUD, data types, operators and the aggregation pipeline, with assignments |
 
 ## How I work
 
 - **Architecture before code.** Structure, data and permissions first, so the system survives its second year, not just the demo.
 - **Teach the why.** Why a technology exists, how it works, when to use it and where it is used.
-- **Honest estimates.** No shortcuts and no unrealistic promises.
+- **Honest estimates, honest labels.** No shortcuts, no unrealistic promises, and a showcase is always called a showcase.
 
 Rooted in the Qur'an and Dars-e-Nizami, I try to work with *amanah* (trust) and *itqan* (doing it properly).
 
