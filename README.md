@@ -2,14 +2,14 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <img src="./assets/banner-light.png" alt="Yousuf Naveed Khan: a Hafiz-e-Quran who architects software. Founder and CEO of GFT Solutions, Senior Instructor at Aptech Gulshan-2, Karachi." width="100%">
+  <img src="./assets/banner-light.png" alt="Yousuf Naveed Khan: Software Architect. Founder and CEO of GFT Solutions, Senior Instructor at Aptech Gulshan-2, Karachi." width="100%">
 </picture>
 
 </div>
 
-**Yousuf Naveed Khan** is a software architect, educator and Hafiz-e-Quran based in **Karachi, Pakistan**. I am the Founder & CEO of [**GFT Solutions**](https://wearegft.com), a registered software company founded in 2023, and a Senior Instructor at **Aptech Gulshan-2**, where I teach web, mobile, desktop, AI, DevOps and data.
+**Yousuf Naveed Khan** is a software architect and educator based in **Karachi, Pakistan**. I am the Founder & CEO of [**GFT Solutions**](https://wearegft.com), a registered software company founded in 2023, and a Senior Instructor at **Aptech Gulshan-2**, where I teach web, mobile, desktop, AI, DevOps and data.
 
-I build business software for B2B clients, I teach the engineers who will build the next generation of it, and I keep learning: I am a student of Dars-e-Nizami.
+I build business software for B2B clients, and I teach the engineers who will build the next generation of it.
 
 <p align="center">
   <a href="https://yousufnaveedkhan.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
